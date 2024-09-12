@@ -1,0 +1,8 @@
+# #34 board configuration
+
+# Copyright (c) 2024 The ZMK Contributors
+# SPDX-License-Identifier: MIT
+
+config BOARD_NIUNIU_JING34
+    bool "niuiu_jing34"
+    depends on SOC_NRF52833_QIAA

@@ -1,0 +1,9 @@
+file_format: "1"
+id: niuniu_jing34
+name: #34
+type: board
+arch: arm
+outputs:
+  - usb
+  - ble
+url: https://example.com/
